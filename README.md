@@ -13,3 +13,6 @@
 ```js
 const cal = require('./index')
 ```
+
+## ต้องลง Node Js ก่อน
+[ดาวโหลดได้ที่นี่](https://nodejs.org/en/)
