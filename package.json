@@ -1,0 +1,14 @@
+{
+  "name": "calulator-komsan",
+  "version": "0.0.2",
+  "description": "Fixed Bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dringrider",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
